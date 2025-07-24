@@ -1,0 +1,5 @@
+[2025-07-24 20:49:31] HATA: HTTP Error 504: Gateway Timeout
+[2025-07-24 20:50:15] HATA: [Errno 22] Invalid argument: 'npp.8.6.5.Installer.x64.exe\n'
+[2025-07-24 20:52:53] HATA: [WinError 740] İstenen işlem için yükseltme gerekiyor
+[2025-07-24 20:54:08] npp.8.6.5.Installer.x64.exe başarıyla kuruldu.
+[2025-07-24 20:55:05] npp.8.6.5.Installer.x64.exe başarıyla kuruldu.
